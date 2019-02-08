@@ -1,0 +1,2 @@
+# LinearModelsForDataScienceFinalProject
+Regression analysis on graduate admissions data
