@@ -1,7 +1,7 @@
 # Linear Models to Predict Graduate Admissions
 Regression analysis on graduate admissions data
 
-This analysis is part of the final project in the course STAT 6021:Linear Models.
+This analysis is part of the final project in the course STAT 6021: Linear Models for Data Science.
 
 The project is Regression Analysis on Graduate Admissions Data in R and I performed this as part of a group of 5 students. A brief background on the project is given below. For more detailed information on the project literature and the methodology,hypothesis,insights,etc regarding the analysis, please refer to the PDF report in my repo.
 
